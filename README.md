@@ -3,7 +3,7 @@
 
 ## Article
 
-bit.ly/SkiaTransitions
+[SkiaTransitions](https://bit.ly/SkiaTransitions)
 
 <p align="center">
 	<kbd>
